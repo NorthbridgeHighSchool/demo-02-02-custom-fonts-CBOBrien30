@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fjalla+One&family=Playfair+Display:ital,wght@1,600&display=swap');
+
+html{
+  background-color: rgb(207, 165, 231)
+}
+
+h1{
+  font-family: "Fjalla One";
+  font-size: 30pt
+}
+
+h2{
+  font-family: "Bebas Neue";
+  font-size: 20pt;
+}
+
+p{
+  font-family: "Playfair Display";
+}
